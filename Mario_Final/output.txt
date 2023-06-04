@@ -1,0 +1,806 @@
+Level: 3
+Location: 6 0
+c c c c g x x 
+c c g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+h g g m c m m 
+Power Level: 0
+Mario is moving down
+Mario collected a coin.
+Number of lives: 1
+Number of coins: 13
+h c c c g x x 
+c c g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x g g m c m m 
+Power Level: 0
+Mario is moving right
+Mario collected a coin.
+Number of lives: 1
+Number of coins: 14
+x h c c g x x 
+c c g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x g g m c m m 
+Power Level: 0
+Mario is moving up
+Number of lives: 1
+Number of coins: 14
+x x c c g x x 
+c c g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x h g m c m m 
+Power Level: 0
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 1
+Number of coins: 14
+x x c c g x x 
+c c g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+h x g m c m m 
+Power Level: 0
+Mario is moving down
+Mario landed on nothing.
+Number of lives: 1
+Number of coins: 14
+h x c c g x x 
+c c g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x x g m c m m 
+Power Level: 0
+Mario is moving down
+Mario collected a coin.
+Number of lives: 1
+Number of coins: 15
+x x c c g x x 
+h c g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x x g m c m m 
+Power Level: 0
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 1
+Number of coins: 15
+h x c c g x x 
+x c g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x x g m c m m 
+Power Level: 0
+Mario is moving down
+Mario landed on nothing.
+Number of lives: 1
+Number of coins: 15
+x x c c g x x 
+h c g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x x g m c m m 
+Power Level: 0
+Mario is moving right
+Mario collected a coin.
+Number of lives: 1
+Number of coins: 16
+x x c c g x x 
+x h g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x x g m c m m 
+Power Level: 0
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 1
+Number of coins: 16
+x h c c g x x 
+x x g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x x g m c m m 
+Power Level: 0
+Mario is moving down
+Mario landed on nothing.
+Number of lives: 1
+Number of coins: 16
+x x c c g x x 
+x h g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x x g m c m m 
+Power Level: 0
+Mario is moving right
+Mario fought a Goomba and lost.
+Number of lives: 0
+Number of coins: 16
+x x c c g x x 
+x x g x g x m 
+g k k m g g x 
+x m g m g x m 
+m x c c k m c 
+c x b x m x c 
+x x g m c m m 
+Total Turns: 95
+ed on nothing.
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c x c k x x 
+x x x x x c x 
+b g x x x h g 
+m c x c m k g 
+x g m m x g x 
+Power Level: 1
+Mario is moving down
+Mario fought a Koopa and won.
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c x c k x x 
+x x x x x c x 
+b g x x x x g 
+m c x c m h g 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c x c k x x 
+x x x x x c x 
+b g x x x x g 
+m c x c m x h 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c x c k x x 
+x x x x x c x 
+b g x x x x h 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c x c k x x 
+x x x x x c x 
+b g x x x h x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c x c k x x 
+x x x x x c x 
+b g x x x x h 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c x c k x x 
+x x x x x c h 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c x c k x x 
+h x x x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c x c k x x 
+x h x x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c x c k x x 
+x x h x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 6
+c c c g g g c 
+m c g c g x k 
+g c h c k x x 
+x x x x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario collected a coin.
+Number of lives: 4
+Number of coins: 7
+c c c g g g c 
+m c g c g x k 
+g c x h k x x 
+x x x x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 7
+c c c g g g c 
+m c g c g x k 
+g c h x k x x 
+x x x x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 7
+c c c g g g c 
+m c g c g x k 
+g c x h k x x 
+x x x x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 7
+c c c g g g c 
+m c g c g x k 
+g c h x k x x 
+x x x x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 7
+c c c g g g c 
+m c g c g x k 
+g c x h k x x 
+x x x x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario fought a Koopa and won.
+Number of lives: 4
+Number of coins: 7
+c c c g g g c 
+m c g c g x k 
+g c x x h x x 
+x x x x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 7
+c c c g g g c 
+m c g c g x k 
+g c x x x h x 
+x x x x x c x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving down
+Mario collected a coin.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+g c x x x x x 
+x x x x x h x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+g c x x x h x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+g c x x x x h 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving down
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+g c x x x x x 
+x x x x x x h 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+g c x x x x x 
+x x x x x h x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+g c x x x h x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g h k 
+g c x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving down
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+g c x x x h x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving down
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+g c x x x x x 
+x x x x x h x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+g c x x x h x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+g c x x x x h 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Number of lives: 4
+Number of coins: 8
+c c c g g g c 
+m c g c g x k 
+h c x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario collected a coin.
+Number of lives: 4
+Number of coins: 9
+c c c g g g c 
+m c g c g x k 
+x h x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 9
+c c c g g g c 
+m c g c g x k 
+x x h x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 9
+c c c g g g c 
+m c g c g x k 
+x h x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving down
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 9
+c c c g g g c 
+m c g c g x k 
+x x x x x x x 
+x h x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 9
+c c c g g g c 
+m c g c g x k 
+x x x x x x x 
+h x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 9
+c c c g g g c 
+m c g c g x k 
+x x x x x x x 
+x h x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 9
+c c c g g g c 
+m c g c g x k 
+x h x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 9
+c c c g g g c 
+m c g c g x k 
+h x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 9
+c c c g g g c 
+m c g c g x k 
+x x x x x x h 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Mario fought a Koopa and won.
+Number of lives: 4
+Number of coins: 9
+c c c g g g c 
+m c g c g x h 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Mario collected a coin.
+Number of lives: 4
+Number of coins: 10
+c c c g g g h 
+m c g c g x x 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving right
+Mario collected a coin.
+Number of lives: 4
+Number of coins: 11
+h c c g g g x 
+m c g c g x x 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x g m m x g x 
+Power Level: 1
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 4
+Number of coins: 11
+x c c g g g x 
+m c g c g x x 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+h g m m x g x 
+Power Level: 1
+Mario is moving right
+Number of lives: 5
+Number of coins: 11
+x c c g g g x 
+m c g c g x x 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x h m m x g x 
+Power Level: 1
+Mario is moving down
+Mario collected a coin.
+Number of lives: 5
+Number of coins: 12
+x h c g g g x 
+m c g c g x x 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x x m m x g x 
+Power Level: 1
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 5
+Number of coins: 12
+h x c g g g x 
+m c g c g x x 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x x m m x g x 
+Power Level: 1
+Mario is moving up
+Mario landed on nothing.
+Number of lives: 5
+Number of coins: 12
+x x c g g g x 
+m c g c g x x 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+h x m m x g x 
+Power Level: 1
+Mario is moving down
+Mario landed on nothing.
+Number of lives: 5
+Number of coins: 12
+h x c g g g x 
+m c g c g x x 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x x m m x g x 
+Power Level: 1
+Mario is moving down
+Mario ate a mushroom.
+Number of lives: 5
+Number of coins: 12
+x x c g g g x 
+h c g c g x x 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x x m m x g x 
+Power Level: 2
+Mario is moving down
+Mario landed on nothing.
+Number of lives: 5
+Number of coins: 12
+x x c g g g x 
+x c g c g x x 
+h x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x x m m x g x 
+Power Level: 2
+Mario is moving right
+Mario landed on nothing.
+Number of lives: 5
+Number of coins: 12
+x x c g g g x 
+x c g c g x x 
+x h x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x x m m x g x 
+Power Level: 2
+Mario is moving down
+Mario landed on nothing.
+Number of lives: 5
+Number of coins: 12
+x x c g g g x 
+x c g c g x x 
+x x x x x x x 
+x h x x x x x 
+b g x x x x x 
+m c x c m x x 
+x x m m x g x 
+Power Level: 2
+Mario is moving left
+Mario landed on nothing.
+Number of lives: 5
+Number of coins: 12
+x x c g g g x 
+x c g c g x x 
+x x x x x x x 
+h x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x x m m x g x 
+Power Level: 2
+Mario is moving down
+Mario fought the boss and lost.
+Mario lost two power levels and fights again
+Mario fought the boss and lost.
+Mario loses a life and fights again
+Mario fought the boss and lost.
+Mario loses a life and fights again
+Mario fought the boss and lost.
+Mario loses a life and fights again
+Mario fought the boss and lost.
+Mario loses a life and fights again
+Mario fought the boss and won.
+Total Turns: 83
+Number of lives: 1
+Number of coins: 12
+x x c g g g x 
+x c g c g x x 
+x x x x x x x 
+x x x x x x x 
+b g x x x x x 
+m c x c m x x 
+x x m m x g x 
